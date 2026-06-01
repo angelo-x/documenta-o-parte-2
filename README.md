@@ -1,4 +1,4 @@
-# documenta-o-parte-2# UCIA - Assistente Virtual da UNIGRAN
+# documenta-UCIA - Assistente Virtual da UNIGRAN
 
 ## Sobre o Projeto
 
